@@ -106,8 +106,10 @@ x ** y     Power
 abs(x)     Absolute Value
 ```
 
+TYPO 
 Theses are the same operators as Integers, except for the bit-wise operators.
 Additional math functions are found in the `math` module.
+
 
 ```python
 import math
